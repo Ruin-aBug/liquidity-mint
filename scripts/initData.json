@@ -1,0 +1,38 @@
+{
+  "Files": [
+    {
+      "readonly": false,
+      "path": "./contracts/const/Constant.sol",
+      "data": [
+        {
+          "keydata": "USDT\\s*=\\s*(.+);",
+          "value": {
+            "1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "4": "0x12fEd4e2520E5E30270c2932107BEAd3Db307907",
+            "56": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "128": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+            "97": "0xaFD9131107e0eF9D22c1deDa0A04EbDc6612684C"
+          }
+        },
+        {
+          "keydata": "WTOKEN\\s*=\\s*(.+);",
+          "value": {
+            "4": "0x66c15636B81A9Fa0183bdAfe3f726D4b7F3b80d5",
+            "56": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "128": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+            "97": "0xeC274b04c38AE02d456FEeaF120CAE8BAE2a0Dfc"
+          }
+        },
+        {
+          "keydata": "baseToken\\s*=\\s*(.+);",
+          "value": {
+            "128": "[0xa71EdC38d189767582C38A3145b5873052c3e47a,0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047,0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B,0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F,0x64FF637fB478863B7468bc97D30a5bF3A428a1fD,0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa]",
+            "56": "[0x2170Ed0880ac9A755fd29B2688956BD959F933F8,0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d,0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c,0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56,0x55d398326f99059fF775485246999027B3197955,0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c]",
+            "4": "[0x66c15636B81A9Fa0183bdAfe3f726D4b7F3b80d5,0x12fEd4e2520E5E30270c2932107BEAd3Db307907,0x2AD77149508F47eC21543feD58c627CA793FacC9]",
+            "97": "[0xeC274b04c38AE02d456FEeaF120CAE8BAE2a0Dfc,0xaFD9131107e0eF9D22c1deDa0A04EbDc6612684C,0x6d00950525041f45ba7458F5A3e99A7c962574d8]"
+          }
+        }
+      ]
+    }
+  ]
+}
